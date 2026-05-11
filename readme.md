@@ -6,4 +6,4 @@ someone modified
 nothing phone
 
 
-kelikanu
+enduku kelikavu
