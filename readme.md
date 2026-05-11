@@ -7,3 +7,4 @@ nothing phone
 
 
 kelikanu
+### Removed Everything
